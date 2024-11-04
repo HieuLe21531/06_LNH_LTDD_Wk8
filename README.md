@@ -1,1 +1,1 @@
-# 06_LNH_LTDD_Wk8
+Currently, Redux is added but not running
